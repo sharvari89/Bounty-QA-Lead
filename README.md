@@ -14,7 +14,6 @@ Since our apps are tied to enterprises ("secretive stuff"), we picked out Zomato
 
 * Zomato Mobile App
 * Zomato Web App
-* Zomato API
 
 If you are going for the kill and you really want to wow us:
 
