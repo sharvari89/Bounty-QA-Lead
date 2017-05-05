@@ -21,7 +21,7 @@ If you are going for the kill and you really want to wow us:
 1. Think about a low literate user and make recommendations on how you will improve the UI/UX.
 2. Think about low connectivity and show us how will you improve the application.
 3. What are the possible security issues, how to set up processes to track and fix those.
-4. Do all of these on Cleartrip's app and not Zomato - Automate testing for the entire booking process.
+4. Do all of these on LinkedIn's app and not Zomato - Automate one user workflow.
 
 ### Final Words
 When you are done, please just create a pull request on this repo. We would like you to come in and present your code to the whole team. 
