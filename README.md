@@ -10,6 +10,8 @@ Your task is to *write a test plan* and *implement some test cases* using tools 
  * How you think and how creative you are
  * How you code - structure, comments, and efficiency
  * And how quickly can you learn
+ * What areas are you able to track / provide inputs on
+    - usability, performance, security, low resources (connectivity, memory,..)
 
 Since our apps are tied to enterprises ("secretive stuff"), we picked out couple of consumer products for you. Here are a few points to get you started below. Be creative in your approach.
 
