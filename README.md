@@ -26,7 +26,7 @@ Feel free to ask lots of questions, bring curiousity and creativity to the endea
 If you are going for the kill and you really want to wow us:
 
 1. Think about a low literate user and make recommendations on how you will improve the UI/UX.
-2. Think about low connectivity and low end phones, show us how will you improve the application.
+2. Think about low connectivity (2G, half a G) or low end phones (1GB RAM with 50 apps), show us how will you improve the application.
 3. What are the possible security issues, how to set up processes to track and fix those.
 
 ### Final Words
