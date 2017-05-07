@@ -10,10 +10,10 @@ For the purpose of this interview your task is to *write a test plan* and *imple
 Can you to lay out and test at least 2 user flows, decipher differences (if any) between web and mobile versions. To get started we might suggest,
  * User signup / login
  * Edit user's extended profile (education, job experiences, extra curriculars, etc..) 
- * Explore and connect with new `related` people
+ * Explore and connect with new `related` people  
 Though you can replace these with other interesting user flows too.
 
-Several aspects of a modern consumer facing service are important, Usability, Performance, Security, Localization are some that immediately spring to mind. Does your test plan and the resulting cases address these and others?
+Several aspects of a modern consumer facing service are important. Usability, Performance, Security, Localization are a few that immediately spring to mind. Does your test plan and the resulting cases address these and others?
 
 Remember we are going to evaluate you on the following parameters:
  * How you code - structure, comments, and efficiency
@@ -27,7 +27,7 @@ Feel free to ask lots of questions, bring curiousity and creativity to the endea
 If you are going for the kill and you really want to wow us:
 
 1. Think about a low literate user and make recommendations on how you will improve the UI/UX.
-2. Think about low connectivity and show us how will you improve the application.
+2. Think about low connectivity and low end phones, show us how will you improve the application.
 3. What are the possible security issues, how to set up processes to track and fix those.
 
 ### Final Words
