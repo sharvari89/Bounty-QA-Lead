@@ -5,9 +5,9 @@ Bounty QA LinkedIn
 
 At Artoo, we have never had a full fledged QA role and now in retrospect really appreciate the value and experience of a good QA. We have a jungle and don't know where to start. We are proud devs who want an equally proud QA who can join our band of geeks. We want the kind of QA who understands the product, the user and the environment and comes up with a plan that ensures we succeed on every parameter regardless of these three dimensions. We want the QA who puts devs in their place. The kind well defined <a href="https://www.thoughtworks.com/insights/blog/qa-role-what-it-really">by this article</a>.
 
-We work with Ember on the frontend and Native android on mobile. Since our apps are tied to enterprises ("secretive stuff"), we picked out LinkedIn as the consumer product to show-off your charms. The test plan is common but with 2 sets of test cases, one each for web and mobile.
+We work with Ember on the frontend and Native android on mobile. Since our apps are tied to enterprises ("secretive stuff") we picked out LinkedIn as the consumer product to show-off your charms. The test plan is common but with 2 sets of test cases, one each for web and mobile.
 
-For the purpose of this interview your task is to *write a test plan* and *implement test cases* using tools you are comfortable with. Can you to lay out and test at least 2 user flows, decipher differences (if any) between web and mobile versions. To get started we suggest a few (you can pick other interesting user flows too),
+So, for the purpose of the interview your task is to *write a test plan* and *implement test cases* using tools you are comfortable with. Can you to lay out and test at least 2 user flows, decipher differences (if any) between web and mobile versions. To get started we suggest a few (you can pick other interesting user flows too),
  * User signup / login
  * Edit user's extended profile (education, job experiences, extra curriculars, etc..) 
  * Explore and connect with new `related` people
